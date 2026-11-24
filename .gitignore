@@ -1,0 +1,11 @@
+.venv/
+.go2-audio-deps/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+/go2_forward
+/read_go2_state
+*.mp3
+*.m4a
+*.wav
